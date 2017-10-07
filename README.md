@@ -41,6 +41,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [SSH](#ssh)
   * [Statistics](#statistics)
   * [Status Pages](#status-pages)
+  * [Testing](#testing)
   * [Ticketing systems](#ticketing-systems)
   * [Troubleshooting](#troubleshooting)
   * [Project Management](#project-management)
@@ -563,6 +564,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 ## Status Pages
 
 * [Cachet](https://cachethq.io) - An open source status page system written in PHP.
+
+## Testing
+
+* [Gatling](https://gatling.io/) - Open-Source Load & Performance Testing Tool For Web Applications
 
 ## Ticketing systems
 
