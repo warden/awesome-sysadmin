@@ -51,6 +51,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
   * [Web](#web)
   * [Webmails](#webmails)
   * [Wikis](#wikis)
+  
+* [Development](#development)
+  
 * [Resources](#resources)
   * [Blogs](#blogs)
   * [Books](#books)
@@ -630,6 +633,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
 * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
 * [Packer](http://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+* [Packer: MacOS Templates](https://github.com/boxcutter/macos)
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Complete open source virtualization management solution.
 * [QEMU](http://www.qemu.org/) - QEMU is a generic and open source machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
@@ -683,6 +687,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [MoinMoin](http://moinmo.in/) - An advanced, easy to use and extensible WikiEngine with a large community of users.
 * [Ōlelo Wiki](https://github.com/minad/olelo) - A a wiki that stores pages in a Git repository.
 * [TiddlyWiki](http://tiddlywiki.com) - Complete interactive wiki in JavaScript.
+
+# Development
+
+* [Hotel](A simple process manager for developers. Start apps from your browser and access them using local .dev domains)
 
 # Resources
 
