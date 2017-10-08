@@ -690,7 +690,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 # Development
 
-* [Hotel]https://github.com/typicode/hotel) - A simple process manager for developers. Start apps from your browser and access them using local .dev domains.
+* [Hotel](https://github.com/typicode/hotel) - A simple process manager for developers. Start apps from your browser and access them using local .dev domains.
 
 # Resources
 
